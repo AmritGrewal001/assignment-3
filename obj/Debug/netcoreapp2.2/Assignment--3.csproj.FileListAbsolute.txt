@@ -1,0 +1,14 @@
+C:\Users\kobe\source\repos\Assignment--3\Assignment--3\bin\Debug\netcoreapp2.2\Assignment--3.deps.json
+C:\Users\kobe\source\repos\Assignment--3\Assignment--3\bin\Debug\netcoreapp2.2\Assignment--3.runtimeconfig.json
+C:\Users\kobe\source\repos\Assignment--3\Assignment--3\bin\Debug\netcoreapp2.2\Assignment--3.runtimeconfig.dev.json
+C:\Users\kobe\source\repos\Assignment--3\Assignment--3\bin\Debug\netcoreapp2.2\Assignment--3.dll
+C:\Users\kobe\source\repos\Assignment--3\Assignment--3\obj\Debug\netcoreapp2.2\Assignment--3.csprojAssemblyReference.cache
+C:\Users\kobe\source\repos\Assignment--3\Assignment--3\obj\Debug\netcoreapp2.2\Assignment--3.csproj.CoreCompileInputs.cache
+C:\Users\kobe\source\repos\Assignment--3\Assignment--3\obj\Debug\netcoreapp2.2\Assignment--3.RazorAssemblyInfo.cache
+C:\Users\kobe\source\repos\Assignment--3\Assignment--3\obj\Debug\netcoreapp2.2\Assignment--3.RazorAssemblyInfo.cs
+C:\Users\kobe\source\repos\Assignment--3\Assignment--3\obj\Debug\netcoreapp2.2\Assignment--3.AssemblyInfoInputs.cache
+C:\Users\kobe\source\repos\Assignment--3\Assignment--3\obj\Debug\netcoreapp2.2\Assignment--3.AssemblyInfo.cs
+C:\Users\kobe\source\repos\Assignment--3\Assignment--3\obj\Debug\netcoreapp2.2\Assignment--3.RazorTargetAssemblyInfo.cache
+C:\Users\kobe\source\repos\Assignment--3\Assignment--3\bin\Debug\netcoreapp2.2\Assignment--3.pdb
+C:\Users\kobe\source\repos\Assignment--3\Assignment--3\obj\Debug\netcoreapp2.2\Assignment--3.dll
+C:\Users\kobe\source\repos\Assignment--3\Assignment--3\obj\Debug\netcoreapp2.2\Assignment--3.pdb
